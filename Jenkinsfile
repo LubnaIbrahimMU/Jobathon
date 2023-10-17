@@ -1,4 +1,4 @@
-ipeline {
+Pipeline {
     agent any 
     environment {
     DOCKERHUB_CREDENTIALS = credentials('lubnaibrahimmu-dockerhub')
