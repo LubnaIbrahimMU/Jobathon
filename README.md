@@ -9,6 +9,8 @@ This app is implemented using MySQL and Python. Copied from the tutorial http://
 -Jenkins
 -terraform
 
+
+
 #Steps
 -create Dockerfile for Flask-app
 -create Dockerfile for MySQL
